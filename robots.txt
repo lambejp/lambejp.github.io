@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lambejp.github.io/sitemap.xml
